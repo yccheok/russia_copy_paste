@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Version 1" />
+        android:text="Version 1.0" />
 
     <com.yocto.russia_copy_paste.LinedEditText
         android:id="@+id/edit_text_1"
